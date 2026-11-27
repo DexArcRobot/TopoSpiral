@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/dexarcrobot-logo.png" alt="DexArcRobot 灵弧机器人 logo" width="240">
+  <img src="assets/logo.png" alt="DexArcRobot 灵弧机器人 logo" width="240">
 </p>
 
-<h1 align="center">DexArcRobot · 灵弧机器人</h1>
+<p align="center">
+  <img src="assets/lable.png" alt="DexArcRobot · 灵弧机器人" width="600">
+</p>
 
 # Topology-Preserving Scalar Field Optimization for Boundary-Conforming Spiral Toolpaths on Multiply Connected Freeform Surfaces
 
